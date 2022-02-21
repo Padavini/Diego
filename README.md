@@ -53,6 +53,7 @@ Realizei um filtro para o mês de dezembro pois foi o mês com o maior número d
 
 # Tecnologias utilizadas
 - Python
+- Pandas
 
 linkedin
 https://www.linkedin.com/in/diego-padavini-a62489b4/
