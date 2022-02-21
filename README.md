@@ -32,6 +32,13 @@ O propósito dessa tabela é apresentar o percentual de churn mensal e a onde fo
 
 Essa tabela foi o meu maior desafio pelos dados que apresenta referente em cada mês, podemos analisar em números absolutos de usuários mensal, novos usuários e quantidade de cancelamentos .
 
+### Filtro mês de dezembro com os clientes com assinatura cancelada
+
+![Tabela Mês de Dezembro](https://user-images.githubusercontent.com/62629217/154982751-6eed2de2-9edc-4e5f-9488-21aafef0340b.PNG)
+
+Realizei um filtro para o mês de dezembro pois foi o mês com o maior número de cancelamento, somente com os clientes que  cancelaram a assinatura para entender  a relação entre eles.
+
+
 #### Conclusão 
 - O aumento de churn para o mês de dezembro  relacionado na minha análise:
 
