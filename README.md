@@ -2,10 +2,10 @@
 
 # Sobre o projeto
 
-Case Churn PetLove foi um projeto relacionado a um desafio para vaga de estágio em engenharia de dados , a onde foi realizado uma análise de dados sobre  um tabela de clientes,
-para entender  o motivo do aumento percentual  de churn.
+Case Churn PetLove - Foi um projeto relacionado a um desafio para vaga de estágio em engenharia de dados, a onde foi realizado uma análise de dados sobre  uma tabela de clientes, para entender  o motivo do aumento percentual  de churn.
 
-Foi um desafio a qual eu tive a primeira experiência em churn , foi desafiador e obtive muito ensinamentos , valeu muito participa . 
+
+Foi um desafio a qual eu tive a primeira experiência em churn  e obtive muito ensinamentos, valeu muito participar, com certeza vai servir de base para as próximas análises no mundo real, foi muito desafiador para chegar nestes resultados e assim sinto-me com missão cumprida, mais com o entendimento que tem muito a melhorar e aprofundarmeus conhecimentos, esse foi o meu primeiro passo.
 
 
 ### Resumo do Projeto
@@ -24,19 +24,25 @@ Fiz essa análise para enteder que numeros de dados eu estaria trabalhando .
 ### Percentual Mensal da tabela Churn
 ![Percentual mensal de churn](https://user-images.githubusercontent.com/62629217/154949292-57c33e6b-6cb8-43b6-bcab-e81c337f44bb.PNG)
 
-O propósito dessa tabela é apresentar o percentual de churn mensal e a onde foi localizado o pico , essa tabela foi fundamental para ver a média mensal de churn conforme a base de 
-clientes e assim  localizando o mês com o maior percentual, foi realizado um filtro para o mês de dezembro e analisar o aumento de churn para aquele momento  especifico.
+O propósito dessa tabela é apresentar o percentual de churn mensal e a onde foi localizado o pico, foi fundamental para ver a média mensal de churn  e realizar a análise no mês com o maior aumento.
+
+### Principal tabela de churn .
+
+![Tabela com dados de Clientes Mensal](https://user-images.githubusercontent.com/62629217/154963407-7ffec163-6587-4fa1-b91c-809b0a611003.PNG)
+
+Essa tabela foi o meu maior desafio pelos dados que apresenta referente em cada mês, podemos analisar em números absolutos de usuários mensal, novos usuários e quantidade de cancelamentos .
+
+#### Conclusão 
+- O aumento de churn para o mês de dezembro  relacionado na minha análise:
 
 
+1-Clientes que não realizaram nenhum tipo de compra. 
 
-Conclusão 
-- O aumento de churn para o mês de dezembro  relacionado na minha análise
 
-1- Clientes que não realizaram nenhum tipo de compra. 
+2-Clientes novos com assinaturas recentes no ano de 2020.
 
-2- Clientes novos com assinaturas recentes no ano de 2020.
 
-3- O Setor de marketing organic_search a pensar de ser o setor com o maior indice de assinaturas tem uma grande taxa de cancelamento .
+3-Focar na origem de clientes pelo  organic_search para diminuir o número de cancelamento.
 
 # Tecnologias utilizadas
 - Python
